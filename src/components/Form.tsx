@@ -162,7 +162,7 @@ const Form = () => {
     }
 
     return (
-        <div className="w-full h-full py-28">
+        <div className="w-full h-full py-36">
             <div className="max-w-[800px] mx-auto w-full min-h-[500px] rounded-3xl rounded-br-[150px] bg-white py-12 px-8 md:px-12">
                 <form className="block" onSubmit={handleFormSubmit}>
                     <div className="min-h-[126px]">
